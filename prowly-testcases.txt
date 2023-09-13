@@ -1,44 +1,47 @@
 1st Test Case - Searching for 'Prowly' filtering by content category - everything
 Given: user has access to the Internet. A browser (eg. Edge/Opera/Chrome/Firefox) is installed on a machine.
-Actions:										Results:
+
+Actions:							Results:
 1. Double click on a Browser icon.				1. A browser opens.
 2. Click on a search bar and type 				2. 'google.com' is typed.
 'google.com'.
-3. Press Enter button.							3. A google.com page is opened.
-4. Click on a search bar located under 			4. Search bar is active and the text can be typed. 
+3. Press Enter button.						3. A google.com page is opened.
+4. Click on a search bar located under 				4. Search bar is active and the text can be typed. 
 'Google' logo.
-5. Type 'Prowly' and press Enter button.		5. A google page with results for key word 'Prowly' is displayed.
+5. Type 'Prowly' and press Enter button.			5. A google page with results for key word 'Prowly' is displayed.
 
 
 2nd Test Case - Searching for 'Prowly' filtering by content category - video
 Given: user has access to the Internet. A browser (eg. Edge/Opera/Chrome/Firefox) is installed on a machine.
-Actions:										Results:
+
+Actions:							Results:
 1. Double click on a Browser icon.				1. A browser opens.
 2. Click on a search bar and type 				2. 'google.com' is typed.
 'google.com'.
-3. Press Enter button.							3. A google.com page is opened.
-4. Click on a search bar located under 			4. Search bar is active and the text can be typed. 
+3. Press Enter button.						3. A google.com page is opened.
+4. Click on a search bar located under 				4. Search bar is active and the text can be typed. 
 'Google' logo.
-5. Type 'Prowly' and press Enter button.		5. A google page with results for key word 'Prowly' is displayed.
-6. Select a Video button, located unter the 	6. A google page containing filtered results - Videos,
-search bar with typed key word 'Prowly'.           for key word 'Prowly' is displayed.
+5. Type 'Prowly' and press Enter button.			5. A google page with results for key word 'Prowly' is displayed.
+6. Select a Video button, located unter the 			6. A google page containing filtered results - Videos,
+search bar with typed key word 'Prowly'.           		   for key word 'Prowly' is displayed.
 
 3rd Test Case - Searching for 'Prowly' filtering by date
 Given: user has access to the Internet. A browser (eg. Edge/Opera/Chrome/Firefox) is installed on a machine.
-Actions:										Results:
+
+Actions:							Results:
 1. Double click on a Browser icon.				1. A browser opens.
 2. Click on a search bar and type 				2. 'google.com' is typed.
 'google.com'.
-3. Press Enter button.							3. A google.com page is opened.
-4. Click on a search bar located under 			4. Search bar is active and the text can be typed. 
+3. Press Enter button.						3. A google.com page is opened.
+4. Click on a search bar located under 				4. Search bar is active and the text can be typed. 
 'Google' logo.
-5. Type 'Prowly' and press Enter button.		5. A google page with results for key word 'Prowly' is displayed.
-6. Select "TOOLS" button, located unter the 	6. A Menu with 3 additional filters appears.
+5. Type 'Prowly' and press Enter button.			5. A google page with results for key word 'Prowly' is displayed.
+6. Select "TOOLS" button, located unter the 			6. A Menu with 3 additional filters appears.
 search bar with typed key word 'Prowly' and
 at the end of filters line.
-7. From the opened Menu with 3 additional 		7. A list with otions opens.
+7. From the opened Menu with 3 additional 			7. A list with otions opens.
 filters select second one 'whenever'.
-8. From the list select 'date range'.			8. A window opens with a tabs to define a date range.
+8. From the list select 'date range'.				8. A window opens with a tabs to define a date range.
 9. Select a random date range 					9. A google page containing filtered by 
-(eg. from the beginning of last week to today).    selected date results for key word 'Prowly' is displayed.
-												   Selected date range is shown  under the filters line. 
+(eg. from the beginning of last week to today).                    selected date results for key word 'Prowly' is displayed.
+								   Selected date range is shown  under the filters line. 
